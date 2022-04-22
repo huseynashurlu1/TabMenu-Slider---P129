@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* .tab-links{
+  display: flex;
+  justify-content: center;
+}
+
+.tab-links button{
+  flex: 1;
+  border: 1px solid black;
+  background-color: burlywood;
+  color: #333;
+  font-weight: bold;
+  padding: 3px 7px;
+}
+
+.tab-content{
+  border: 1px solid rgb(119, 96, 66);
+  padding: 10px ;
+}
+
+h4{
+  margin: 0;
+} */
+
+.active{
+  color: #fff !important;
+  background-color: rgb(136, 108, 72) !important;
+}
+
+#Code{
+  border: 1px solid purple;
+  padding: 10px;
+  text-align: center;
+}
+
+.qr-img{
+  border: 1px dashed #000;
+}
+
+img{
+  width: 100%;
+}
